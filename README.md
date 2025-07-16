@@ -36,7 +36,7 @@ amazon-clone/
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <img src="https://github.com/user-attachments/assets/e1489eec-b745-49b1-86d3-a7d0b7003fb0" alt="Screenshot 3" width="60%" />
+      <img src="https://github.com/user-attachments/assets/e1489eec-b745-49b1-86d3-a7d0b7003fb0" alt="Screenshot 3" width="45%" />
     </td>
   </tr>
 </table>
